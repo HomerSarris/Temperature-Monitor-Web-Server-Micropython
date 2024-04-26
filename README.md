@@ -8,5 +8,5 @@ The Temperature Monitor Web Server utilizes a NodeMcu microprocessor connected t
 
 Furthermore, the website includes two buttons:
 
-Fetch Temps: This button refreshes the website to obtain a new temperature measurement.
-Submit: This button submits the current temperature to the history log page and redirects the user to that page.
+-Fetch Temps: This button refreshes the website to obtain a new temperature measurement.
+-Submit: This button submits the current temperature to the history log page and redirects the user to that page.
