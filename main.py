@@ -1,3 +1,5 @@
+#By Omiros Sarris & Stavros Mitropoulos
+
 import machine
 import onewire
 import ds18x20
